@@ -1,0 +1,7 @@
+C:\Users\bi54ul\Desktop\AdvProgW2\AdvProgWeek2\AdvProgWeek2\obj\Debug\AdvProgWeek2.csproj.AssemblyReference.cache
+C:\Users\bi54ul\Desktop\AdvProgW2\AdvProgWeek2\AdvProgWeek2\obj\Debug\AdvProgWeek2.csproj.CoreCompileInputs.cache
+C:\Users\bi54ul\Desktop\AdvProgW2\AdvProgWeek2\AdvProgWeek2\bin\Debug\AdvProgWeek2.exe.config
+C:\Users\bi54ul\Desktop\AdvProgW2\AdvProgWeek2\AdvProgWeek2\bin\Debug\AdvProgWeek2.exe
+C:\Users\bi54ul\Desktop\AdvProgW2\AdvProgWeek2\AdvProgWeek2\bin\Debug\AdvProgWeek2.pdb
+C:\Users\bi54ul\Desktop\AdvProgW2\AdvProgWeek2\AdvProgWeek2\obj\Debug\AdvProgWeek2.exe
+C:\Users\bi54ul\Desktop\AdvProgW2\AdvProgWeek2\AdvProgWeek2\obj\Debug\AdvProgWeek2.pdb
